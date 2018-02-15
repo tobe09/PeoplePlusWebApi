@@ -1,0 +1,62 @@
+E:\Wisdom Essien\PeoplePlusFolder\mobile\jan2018\PeoplePlusWebApi\PeoplePlusWebApi\bin\roslyn\csc.exe
+E:\Wisdom Essien\PeoplePlusFolder\mobile\jan2018\PeoplePlusWebApi\PeoplePlusWebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Wisdom Essien\PeoplePlusFolder\mobile\jan2018\PeoplePlusWebApi\PeoplePlusWebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Wisdom Essien\PeoplePlusFolder\mobile\jan2018\PeoplePlusWebApi\PeoplePlusWebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Wisdom Essien\PeoplePlusFolder\mobile\jan2018\PeoplePlusWebApi\PeoplePlusWebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Wisdom Essien\PeoplePlusFolder\mobile\jan2018\PeoplePlusWebApi\PeoplePlusWebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Wisdom Essien\PeoplePlusFolder\mobile\jan2018\PeoplePlusWebApi\PeoplePlusWebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Wisdom Essien\PeoplePlusFolder\mobile\jan2018\PeoplePlusWebApi\PeoplePlusWebApi\bin\roslyn\System.Collections.Immutable.dll
+E:\Wisdom Essien\PeoplePlusFolder\mobile\jan2018\PeoplePlusWebApi\PeoplePlusWebApi\bin\roslyn\System.Reflection.Metadata.dll
+E:\Wisdom Essien\PeoplePlusFolder\mobile\jan2018\PeoplePlusWebApi\PeoplePlusWebApi\bin\roslyn\vbc.exe
+E:\Wisdom Essien\PeoplePlusFolder\mobile\jan2018\PeoplePlusWebApi\PeoplePlusWebApi\bin\roslyn\VBCSCompiler.exe
+E:\Wisdom Essien\PeoplePlusFolder\mobile\jan2018\PeoplePlusWebApi\PeoplePlusWebApi\bin\roslyn\VBCSCompiler.exe.config
+E:\Wisdom Essien\PeoplePlusFolder\mobile\jan2018\PeoplePlusWebApi\PeoplePlusWebApi\bin\PeoplePlusWebApi.dll.config
+E:\Wisdom Essien\PeoplePlusFolder\mobile\jan2018\PeoplePlusWebApi\PeoplePlusWebApi\bin\PeoplePlusWebApi.dll
+E:\Wisdom Essien\PeoplePlusFolder\mobile\jan2018\PeoplePlusWebApi\PeoplePlusWebApi\bin\PeoplePlusWebApi.pdb
+E:\Wisdom Essien\PeoplePlusFolder\mobile\jan2018\PeoplePlusWebApi\PeoplePlusWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Wisdom Essien\PeoplePlusFolder\mobile\jan2018\PeoplePlusWebApi\PeoplePlusWebApi\bin\Newtonsoft.Json.dll
+E:\Wisdom Essien\PeoplePlusFolder\mobile\jan2018\PeoplePlusWebApi\PeoplePlusWebApi\bin\System.Net.Http.Formatting.dll
+E:\Wisdom Essien\PeoplePlusFolder\mobile\jan2018\PeoplePlusWebApi\PeoplePlusWebApi\bin\System.Web.Http.dll
+E:\Wisdom Essien\PeoplePlusFolder\mobile\jan2018\PeoplePlusWebApi\PeoplePlusWebApi\bin\System.Web.Http.WebHost.dll
+E:\Wisdom Essien\PeoplePlusFolder\mobile\jan2018\PeoplePlusWebApi\PeoplePlusWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Wisdom Essien\PeoplePlusFolder\mobile\jan2018\PeoplePlusWebApi\PeoplePlusWebApi\bin\Newtonsoft.Json.xml
+E:\Wisdom Essien\PeoplePlusFolder\mobile\jan2018\PeoplePlusWebApi\PeoplePlusWebApi\bin\System.Net.Http.Formatting.xml
+E:\Wisdom Essien\PeoplePlusFolder\mobile\jan2018\PeoplePlusWebApi\PeoplePlusWebApi\bin\System.Web.Http.xml
+E:\Wisdom Essien\PeoplePlusFolder\mobile\jan2018\PeoplePlusWebApi\PeoplePlusWebApi\bin\System.Web.Http.WebHost.xml
+E:\Wisdom Essien\PeoplePlusFolder\mobile\jan2018\PeoplePlusWebApi\PeoplePlusWebApi\obj\Debug\PeoplePlusWebApi.csprojResolveAssemblyReference.cache
+E:\Wisdom Essien\PeoplePlusFolder\mobile\jan2018\PeoplePlusWebApi\PeoplePlusWebApi\obj\Debug\PeoplePlusWebApi.dll
+E:\Wisdom Essien\PeoplePlusFolder\mobile\jan2018\PeoplePlusWebApi\PeoplePlusWebApi\obj\Debug\PeoplePlusWebApi.pdb
+C:\Users\NeptuneDev1\Documents\Visual Studio 2015\Projects\PeoplePlusWebApi\PeoplePlusWebApi\bin\roslyn\csc.exe
+C:\Users\NeptuneDev1\Documents\Visual Studio 2015\Projects\PeoplePlusWebApi\PeoplePlusWebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\NeptuneDev1\Documents\Visual Studio 2015\Projects\PeoplePlusWebApi\PeoplePlusWebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\NeptuneDev1\Documents\Visual Studio 2015\Projects\PeoplePlusWebApi\PeoplePlusWebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\NeptuneDev1\Documents\Visual Studio 2015\Projects\PeoplePlusWebApi\PeoplePlusWebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\NeptuneDev1\Documents\Visual Studio 2015\Projects\PeoplePlusWebApi\PeoplePlusWebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\NeptuneDev1\Documents\Visual Studio 2015\Projects\PeoplePlusWebApi\PeoplePlusWebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\NeptuneDev1\Documents\Visual Studio 2015\Projects\PeoplePlusWebApi\PeoplePlusWebApi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\NeptuneDev1\Documents\Visual Studio 2015\Projects\PeoplePlusWebApi\PeoplePlusWebApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\NeptuneDev1\Documents\Visual Studio 2015\Projects\PeoplePlusWebApi\PeoplePlusWebApi\bin\roslyn\vbc.exe
+C:\Users\NeptuneDev1\Documents\Visual Studio 2015\Projects\PeoplePlusWebApi\PeoplePlusWebApi\bin\roslyn\VBCSCompiler.exe
+C:\Users\NeptuneDev1\Documents\Visual Studio 2015\Projects\PeoplePlusWebApi\PeoplePlusWebApi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\NeptuneDev1\Documents\Visual Studio 2015\Projects\PeoplePlusWebApi\PeoplePlusWebApi\bin\PeoplePlusWebApi.dll.config
+C:\Users\NeptuneDev1\Documents\Visual Studio 2015\Projects\PeoplePlusWebApi\PeoplePlusWebApi\bin\PeoplePlusWebApi.dll
+C:\Users\NeptuneDev1\Documents\Visual Studio 2015\Projects\PeoplePlusWebApi\PeoplePlusWebApi\bin\PeoplePlusWebApi.pdb
+C:\Users\NeptuneDev1\Documents\Visual Studio 2015\Projects\PeoplePlusWebApi\PeoplePlusWebApi\bin\Microsoft.Azure.AppService.ApiApps.Service.dll
+C:\Users\NeptuneDev1\Documents\Visual Studio 2015\Projects\PeoplePlusWebApi\PeoplePlusWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\NeptuneDev1\Documents\Visual Studio 2015\Projects\PeoplePlusWebApi\PeoplePlusWebApi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\NeptuneDev1\Documents\Visual Studio 2015\Projects\PeoplePlusWebApi\PeoplePlusWebApi\bin\Newtonsoft.Json.dll
+C:\Users\NeptuneDev1\Documents\Visual Studio 2015\Projects\PeoplePlusWebApi\PeoplePlusWebApi\bin\Swashbuckle.Core.dll
+C:\Users\NeptuneDev1\Documents\Visual Studio 2015\Projects\PeoplePlusWebApi\PeoplePlusWebApi\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\NeptuneDev1\Documents\Visual Studio 2015\Projects\PeoplePlusWebApi\PeoplePlusWebApi\bin\System.Net.Http.Formatting.dll
+C:\Users\NeptuneDev1\Documents\Visual Studio 2015\Projects\PeoplePlusWebApi\PeoplePlusWebApi\bin\System.Web.Http.dll
+C:\Users\NeptuneDev1\Documents\Visual Studio 2015\Projects\PeoplePlusWebApi\PeoplePlusWebApi\bin\System.Web.Http.WebHost.dll
+C:\Users\NeptuneDev1\Documents\Visual Studio 2015\Projects\PeoplePlusWebApi\PeoplePlusWebApi\bin\WebActivatorEx.dll
+C:\Users\NeptuneDev1\Documents\Visual Studio 2015\Projects\PeoplePlusWebApi\PeoplePlusWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\NeptuneDev1\Documents\Visual Studio 2015\Projects\PeoplePlusWebApi\PeoplePlusWebApi\bin\Newtonsoft.Json.xml
+C:\Users\NeptuneDev1\Documents\Visual Studio 2015\Projects\PeoplePlusWebApi\PeoplePlusWebApi\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\NeptuneDev1\Documents\Visual Studio 2015\Projects\PeoplePlusWebApi\PeoplePlusWebApi\bin\System.Net.Http.Formatting.xml
+C:\Users\NeptuneDev1\Documents\Visual Studio 2015\Projects\PeoplePlusWebApi\PeoplePlusWebApi\bin\System.Web.Http.xml
+C:\Users\NeptuneDev1\Documents\Visual Studio 2015\Projects\PeoplePlusWebApi\PeoplePlusWebApi\bin\System.Web.Http.WebHost.xml
+C:\Users\NeptuneDev1\Documents\Visual Studio 2015\Projects\PeoplePlusWebApi\PeoplePlusWebApi\obj\Debug\PeoplePlusWebApi.dll
+C:\Users\NeptuneDev1\Documents\Visual Studio 2015\Projects\PeoplePlusWebApi\PeoplePlusWebApi\obj\Debug\PeoplePlusWebApi.pdb
+C:\Users\NeptuneDev1\Documents\Visual Studio 2015\Projects\PeoplePlusWebApi\PeoplePlusWebApi\obj\Debug\PeoplePlusWebApi.csprojResolveAssemblyReference.cache

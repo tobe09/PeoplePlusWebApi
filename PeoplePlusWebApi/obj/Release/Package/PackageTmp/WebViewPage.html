@@ -1,0 +1,52 @@
+﻿<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <style>
+        .full {
+            width: 99.3vw;
+            height: 95vh;
+        }
+    </style>
+</head>
+<body>
+    <div>
+        <span id="spanOccur"></span>
+        <img id="imgId" alt="An Image" src="images/login1.jpg" class="full" />
+    </div>
+
+    <script type="text/javascript">
+        function changeImage() {
+            const img = document.getElementById('imgId');
+            let r = parseInt(Math.random() * 7, 10);
+            img.src = "images/login" + r + ".jpg";
+        };
+
+        setInterval(changeImage, 1000);
+
+        //"use strict"
+        (function change() { const count = 20; })();
+        count = 10;
+        (function () { document.getElementById('spanOccur').innerHTML = "Outside: " + count; })();
+
+        const intvId = setInterval(() => {
+            count++;
+            const spn = document.getElementById('spanOccur');
+            const rnd = Math.random() * 11
+            const num = parseInt(rnd);
+            const num2 = Math.floor(rnd);
+            if (num !== num2) spn.innerText = num + " " + num2 + " " + count;
+            if (count % 5 == 0) spn.innerHTML = count;
+            if (count === 40) {
+                clearInterval(intvId);
+                const msg = void "Hi";
+                void prompt(window.location.port, msg);
+                setTimeout(() =>   window.location = "images/login0.jpg", 1000);
+                //window.location.replace("images/login0.jpg")      //no history
+            }
+        }, 50);
+    </script>
+</body>
+</html>
