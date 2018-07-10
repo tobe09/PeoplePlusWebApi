@@ -6,12 +6,8 @@ namespace PeoplePlusWebApi.Controllers
 {
     public class LoginController : ApiController
     {
-        DataProvider.Login _loginObj = new DataProvider.Login();
-        DataProvider.Login LoginObj
-        {
-            get { return _loginObj; }
-        }
-        
+        DataProvider.Login LoginObj { get; } = new DataProvider.Login();
+
         public User PostUserLogin([FromBody] LoginClass loginObj)
         {
             try

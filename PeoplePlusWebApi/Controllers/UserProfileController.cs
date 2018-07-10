@@ -1,7 +1,6 @@
 ﻿using System;
 using System.Data;
 using System.Data.OracleClient;
-using System.Drawing;
 using System.IO;
 using System.Net;
 using System.Net.Http;
@@ -119,7 +118,7 @@ namespace PeoplePlusWebApi.Controllers
                         picByte[i] = buffer[i];
                     }
                 }
-
+                
                 using (OracleConnection con = new OracleConnection(new DataProvider().GetConnectionString()))
                 using (OracleCommand cmd = new OracleCommand())
                 {
